@@ -1,6 +1,5 @@
 # Amazon-Prime-Video-Dashboard
-Prime Video Content Analysis Dashboard
-This interactive Power BI dashboard provides a comprehensive overview of Prime Video’s content distribution, including titles, genres, ratings, release trends, and geographical insights.
+Amazon Prime Video Content Analysis Dashboard. This interactive Power BI dashboard provides a comprehensive overview of Prime Video’s content distribution, including titles, genres, ratings, release trends, and geographical insights.
 
 # Key Insights:
 1) Total Titles: 9,655 titles are available, with 8,100+ movies (80.82%) and 1,850+ TV shows (19.18%).
